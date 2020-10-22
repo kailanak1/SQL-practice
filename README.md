@@ -87,7 +87,7 @@ Lessons 1 - 18
 
 ### Lesson 7 
 1. Find the list of all buildings that have employees
-```Find the list of all buildings that have employees```
+```FSELECT DISTINCT building FROM employees```
 
 2. Find the list of all buildings and their capacity
 ```SELECT * FROM buildings;```
